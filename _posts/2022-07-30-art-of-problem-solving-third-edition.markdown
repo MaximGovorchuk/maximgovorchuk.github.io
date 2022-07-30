@@ -1,4 +1,4 @@
-In software engineering occupation, skill of problem-solving is a crucial to have. Since one often finds himself or herself encountering an expected (or unexpected) issue (or two) while working on a task at hand. One might even say that what everything we do is solving problems. Ability to deal with it in systematic and structured way makes one efficient and effective. Here are some strategies and tactics which might help with that. 
+In software engineering occupation, skill of problem-solving is a crucial to have. Since one often finds himself or herself encountering an expected (or unexpected) issue (or two) while working on a task at hand. One might even say that everything we do is solving problems. Ability to deal with it in systematic and structured way makes one efficient and effective. Here are some strategies and tactics which might help with that. 
 
 # State of mind
 
@@ -43,9 +43,13 @@ To rephrase, asking questions promotes further questions and so it goes until yo
 
 ## Danger of assumptions
 
-"It ain't what you don't know that gets you in trouble. It's what you know for sure that just ain't so." - Mark Twain
-
 Assumptions allow us to not check every single detail hence saving energy to be spent elsewhere. It works well in general however sometimes it backfires. If you are at the point of being confused and exhausted paths to explore it might be a time to verify the assumptions you made.
+
+<p align="center">
+  <img
+    src="/assets/mark-twain.jpeg"
+  >
+</p>
 
 ## Reverse engineer a problem
 
