@@ -122,7 +122,7 @@ To use the metaphor of a pinball game ([learning how to learn by Barbara Oakley]
 
 Another way to explain it is to use words 'Labyrinth' and 'Maze'. Some languages have both defined as synonyms. While others, including English, differentiate them.
 
-As opposed to labyrinth, maze won't make you puzzled or lost hence requiring mental effort to resolve since there is only one entrance which happens to be the only exit too and it leads to single place, its centre. Hence, while you're walking inside of maze you are more prone to make your mind wandering.
+As opposed to maze, labyrinth won't make you puzzled or lost hence requiring mental effort to resolve since there is only one entrance which happens to be the only exit too and it leads to single place, its centre. Hence, while you're walking inside of maze you are more prone to make your mind wandering.
 
 <p align="center">
   <img
