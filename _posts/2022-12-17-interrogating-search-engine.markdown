@@ -114,7 +114,7 @@ So go ahead and open the search engine at your disposal and examine its UI thoro
 </p>
 
 ## Misc 
-In spirit of referring to existing information as opposed to copying it (though trading off availability if they go offline 🌅), here are additional resources to explore:
+In the spirit of referring to existing information as opposed to copying it (though trading off availability if they go offline 🌅), here are additional resources to explore:
 - [http://www.oas.org/search/ixtiphlp.htm](http://www.oas.org/search/ixtiphlp.htm)
 - [https://www.mindtools.com/abtmh5z/seven-ways-to-find-what-you-want-on-the-internet](https://www.mindtools.com/abtmh5z/seven-ways-to-find-what-you-want-on-the-internet)
 - [https://support.google.com/websearch/answer/134479?hl=en](https://support.google.com/websearch/answer/134479?hl=en)
